@@ -71,4 +71,4 @@ client.on('message', (receivedMessage) => {
   }
 })
 
-client.login(config.login.token)
+client.login(process.env.TOKEN)
