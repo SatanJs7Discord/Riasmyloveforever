@@ -1,6 +1,6 @@
 module.exports = {
     BOT_SETTINGS: {
-        BOT_TOKEN: 'ODA5MDAwMzUwODMyNzg3NDU3.YCOuSg.WeOhCIlylOsSUgDPnzlXv-F-u8I',
+        BOT_TOKEN: '',
         YT_API_KEY: 'AIzaSyBiXg59AI66x7fee6Qhi346iTRFjgxFPh4',
         COMMAND_PREFIX: 'r!',
         EMBED_COLOR: 'BLUE',
