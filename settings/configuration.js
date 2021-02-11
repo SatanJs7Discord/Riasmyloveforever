@@ -1,7 +1,7 @@
 module.exports = {
     BOT_SETTINGS: {
         BOT_TOKEN: '',
-        YT_API_KEY: 'AIzaSyBiXg59AI66x7fee6Qhi346iTRFjgxFPh4',
+        YT_API_KEY: '',
         COMMAND_PREFIX: 'r!',
         EMBED_COLOR: 'BLUE',
         MUTE_ROLE: 'ROLEID',
