@@ -1,0 +1,24 @@
+{
+  "name": "rias",
+  "version": "1.0.0",
+  "description": "Rias bot <3",
+  "main": "index.js",
+  "scripts": {
+    "test": "!ping"
+  },
+  "author": "Satan.js7W3B",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-bot-api": "^0.2.1",
+    "cleverbot-node": "^0.3.11",
+    "cleverbot.io": "^1.0.4",
+    "discord.js-chatbot": "^1.0.1",
+    "discord.js-utils": "^1.1.1",
+    "enmap": "^5.8.4",
+    "log-symbols": "^4.0.0",
+    "path": "^0.12.7",
+    "quick.db": "^7.1.3",
+    "simple-youtube-api": "^5.2.1",
+    "utils": "^0.3.1"
+  }
+}
